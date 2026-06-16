@@ -1,19 +1,61 @@
 .page-title{
     font-family: "Yeseva One", verdana;
-    font-size: 50px;
+    font-size: 60px;
     color: rgb(0, 0, 0);
-    padding: 50px 100px;
+    padding: 40px 100px;
 }
 
 .page-subtitle{
     font-family: "Yeseva One", verdana;
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(0, 0, 0);
     padding: 50px 100px;
     border: 1px solid black;
 }
 
 .about-me{
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 30px 100px;
+}
+
+.technologies{
+    font-family: "Yeseva One", verdana;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding: 30px 100px;
+}
+
+.technologies-list{
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 50px 120px;
+}
+
+.projects{
+    font-family: "Yeseva One", verdana;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding: 30px 100px;
+}
+
+.projects-list{
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 50px 120px;
+}
+
+.contact{
+    font-family: "Yeseva One", verdana;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding: 30px 100px;
+}
+
+.contact-info{
     font-family: verdana;
     font-size: 20px;
     color: rgb(0, 0, 0);
